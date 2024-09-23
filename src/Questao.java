@@ -105,5 +105,5 @@ public class Questao {
         questoes[5].pergunta = "5.              "
         questoes[5]
         questoes[5]
-        questoes[5]
+        questoes[5].pergunta = desk.
         questoes[5]
