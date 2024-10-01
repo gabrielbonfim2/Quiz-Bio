@@ -122,7 +122,7 @@ public class Questao {
         questoes[6].opcaoC = "Célula";
         questoes[6].opcaoD = "Tecidos";
         questoes[6].opcaoE = "Átomos";
-     
+        questoes[6].correta = "C";
 
         questoes[7] = new Questao();
         questoes[7].pergunta = "8. Qual é a função dos leucócitos?";
