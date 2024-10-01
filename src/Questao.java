@@ -188,7 +188,7 @@ public class Questao {
         questoes[14].opcaoB = "Produção de energia";
         questoes[14].opcaoC = "Fotossíntese";
         questoes[14].opcaoD = "Armazenamento de água";
-        questoes[14].opcaoE = "Síntese de proteínas";
+        questoes[14].
         questoes[14].correta = "C";
 
 
