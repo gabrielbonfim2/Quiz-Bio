@@ -65,15 +65,7 @@ public class Questao {
         Questao[] questoes = new Questao[15];
 
 
-        questoes[1]= new Questao();
-        questoes[1].pergunta = "1. Qual é a principal função das mitocôndrias?";
-        questoes[1].opcaoA = "Realizar fotossíntese";
-        questoes[1].opcaoB = "Armazenar energia";
-        questoes[1].opcaoC = "Produzir ATP por meio da respiração celular";
-        questoes[1].opcaoD = "Produzir proteínas";
-        questoes[1].opcaoE = "Armazenar cálcio";
-        questoes[1].correta = "C";
-
+       
         questoes[2] = new Questao();
         questoes[2].pergunta = "2. O que é a fotossíntese?";
         questoes[2].opcaoA = "Processo de respiração das plantas";
